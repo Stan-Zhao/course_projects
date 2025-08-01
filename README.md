@@ -5,4 +5,4 @@ I see this not only as a way to preserve memories, but also as a demonstration o
 I know this documentation isn’t complete — I deleted a lot of files back then to save storage space 😅. And honestly, I’m sure many of my juniors will surpass my scores.
 But if you're curious, feel free to reach out. I can put together a separate folder to share whatever I still have from my coursework.
 
-Lastly, I’d like to thank my friend Zhou for sharing the Ship Design and Economics module with me after I had accidentally deleted it, which made it possible to complete the collection of all my coursework from the second and third years.
+
